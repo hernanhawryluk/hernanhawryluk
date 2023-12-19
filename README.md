@@ -5,8 +5,8 @@ Full-Stack Well Developer
 -------------------------
 
 * 🌍  I'm based in Argentina, Buenos Aires.
-* 🖥️  See my portfolio at [Vercel.](http://portfolio-hernan-hawryluks-projects.vercel.app/)
-* ✉️  You can contact me at [https://www.linkedin.com/in/hernan-hawryluk](mailto:https://www.linkedin.com/in/hernan-hawryluk)
+* 🖥️  See my [portfolio] deployed at Vercel.(http://portfolio-hernan-hawryluks-projects.vercel.app/)
+* ✉️  You can contact me at [LinkedIn].(https://www.linkedin.com/in/hernan-hawryluk)
 * 🧠  I'm learning Express.
 
 ### Skills
