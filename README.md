@@ -29,7 +29,7 @@ Full-Stack Developer
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![Git](https://img.shields.io/badge/Git-1C1E24?style=for-the-badge&logo=git&logoColor=red)
-![Figma](https://img.shields.io/badge/Figma-1C1E24?style=for-the-badge&logo=figma&logoColor=red)
+![Figma](https://img.shields.io/badge/Figma-1C1E24?style=for-the-badge&logo=figma&logoColor=blue)
 ![Asana](https://img.shields.io/badge/Asana-1C1E24?style=for-the-badge&logo=asana&logoColor=red)
 </p>
 
