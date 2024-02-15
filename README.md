@@ -23,6 +23,7 @@ Full-Stack Developer
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-563d7c.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=ffffff) 
 ![Prisma](https://img.shields.io/badge/Prisma-%23323330.svg?style=for-the-badge&logo=prisma&logoColor=green) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) 
