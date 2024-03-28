@@ -7,7 +7,7 @@ Full-Stack Developer
 * 🖥️  See my [portfolio](http://portfolio-hernan-hawryluks-projects.vercel.app/) deployed at Vercel.
 * ✉️  You can contact me at [LinkedIn](https://www.linkedin.com/in/hernan-hawryluk).
 * 🚀  Currently seeking a position as a Full Stack Developer.
-* 🧠  I'm learning HTMX.
+* 🧠  I'm learning Java and Spring Boot.
 
 ### Skills
 
