@@ -32,6 +32,7 @@ Full-Stack Developer
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![Git](https://img.shields.io/badge/Git-1C1E24?style=for-the-badge&logo=git&logoColor=red)
 ![Figma](https://img.shields.io/badge/Figma-1C1E24?style=for-the-badge&logo=figma&logoColor=red)
+![Jira](https://img.shields.io/badge/Jira-1C1E24?style=for-the-badge&logo=jirasoftware&logoColor=blue)
 ![Asana](https://img.shields.io/badge/Asana-1C1E24?style=for-the-badge&logo=asana&logoColor=orange)
 </p>
 
