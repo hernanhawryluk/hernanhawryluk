@@ -49,6 +49,28 @@ I am a Full-Stack developer with solid experience in React, Node.js, and Next.js
   </tr>
 </table>  
 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const hernanHawryluk = {
+    pronouns: "he" | "him",
+    role: "Full Stack Developer",
+    code: ["Javascript", "TypeScript", "Python"],
+    technologies: {
+        frontEnd: {
+            basic: ["HTML", "CSS", "JavaScript"],
+            frameworks: ["React", "Next.js", "React Native"],
+            styles: ["Tailwind CSS", "Bootstrap", "Material UI"]
+        },
+        backEnd: {
+            js: ["Django", "Node.js", "Express", "Next.js"],
+        },
+        databases: ["MySQL", "PostgreSQL", "SQLite", "MongoDB", "Firebase"],
+        devOps: ["AWS", "Vercel", "Render"],
+    },
+};
+```
+
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/hernanhawryluk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/hernanhawryluk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
