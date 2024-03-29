@@ -4,10 +4,12 @@ Hi 👋 My name is Hernan
 Full-Stack Developer
 --------------------
 
-<h4>Language options</h4>
-  <a href="https://github.com/hernanhawryluk/hernanhawryluk/blob/main/README.es.md"><img alt="Cambiar idioma al español" src="https://img.shields.io/badge/idioma-español-yellow.svg"></a>
+<div>
+  <a href="https://hernanhawryluk.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-gray?logo=react"></a>
+  <a href="https://github.com/hernanhawryluk/hernanhawryluk/blob/main/README.es.md"><img alt="Cambiar idioma al español" src="https://img.shields.io/badge/traducir-español-yellow.svg"></a>
   <a href="#"><img alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=hernanhawryluk.hernanhawryluk"></a>
 </div>
+<br>
 
 I am a Full-Stack developer with solid experience in React, Node.js, and Next.js using TypeScript. I also have skills in Django, React Native, Bootstrap, and Tailwind, among other key technologies. I have knowledge in implementing relational and NoSQL databases such as Firebase and MongoDB. My versatile approach allows me to develop web and mobile applications comprehensively, from their initial conception to deployment.
 
@@ -16,6 +18,7 @@ I am a Full-Stack developer with solid experience in React, Node.js, and Next.js
 * ✉️  You can contact me at [LinkedIn](https://www.linkedin.com/in/hernan-hawryluk).
 * 🚀  Currently working as a Full Stack Developer.
 * 🧠  I'm learning Java and Spring Boot.
+<br>
 
 ## My Skill Set  
 
@@ -52,9 +55,10 @@ I am a Full-Stack developer with solid experience in React, Node.js, and Next.js
         <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
     </td>
   </tr>
-</table>  
+</table>
+<br>
 
-### 💻 A little more about me...  
+## 💻 A little more about me...  
 
 ```javascript
 const hernanHawryluk = {
