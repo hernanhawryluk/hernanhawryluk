@@ -4,6 +4,11 @@ Hi 👋 My name is Hernan
 Full-Stack Developer
 --------------------
 
+<h4>Language options</h4>
+  <a href="https://github.com/hernanhawryluk/hernanhawryluk/blob/main/README.es.md"><img alt="Cambiar idioma al español" src="https://img.shields.io/badge/idioma-español-yellow.svg"></a>
+  <a href="#"><img alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=hernanhawryluk.hernanhawryluk"></a>
+</div>
+
 I am a Full-Stack developer with solid experience in React, Node.js, and Next.js using TypeScript. I also have skills in Django, React Native, Bootstrap, and Tailwind, among other key technologies. I have knowledge in implementing relational and NoSQL databases such as Firebase and MongoDB. My versatile approach allows me to develop web and mobile applications comprehensively, from their initial conception to deployment.
 
 * 🌍  I'm based in Argentina, Buenos Aires.
@@ -49,11 +54,10 @@ I am a Full-Stack developer with solid experience in React, Node.js, and Next.js
   </tr>
 </table>  
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### 💻 A little more about me...  
 
 ```javascript
 const hernanHawryluk = {
-    pronouns: "he" | "him",
     role: "Full Stack Developer",
     code: ["Javascript", "TypeScript", "Python"],
     technologies: {
@@ -73,7 +77,10 @@ const hernanHawryluk = {
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/hernanhawryluk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/hernanhawryluk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> 
+  <a href="https://www.github.com/hernanhawryluk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
+  <a href="https://www.linkedin.com/in/hernanhawryluk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
+</p>
 
 ### Commits
 
