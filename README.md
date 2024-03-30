@@ -99,7 +99,7 @@ const hernanHawryluk = {
   <a href="https://github.com/hernanhawryluk" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
   </a>
-  <a href="https://linkedin.com/in/hernanhawryluk" target="_blank">
+  <a href="https://linkedin.com/in/hernan-hawryluk" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
   </a>
   <a href="https://www.youtube.com/channel/UCPfXI175l66910dP1rMkD2w" target="_blank">
