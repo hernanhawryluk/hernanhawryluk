@@ -89,4 +89,3 @@ const hernanHawryluk = {
 ### Commits
 
 <img src="https://raw.githubusercontent.com/hernanhawryluk/hernanhawryluk/output/snake.svg" alt="Snake animation" />
-
