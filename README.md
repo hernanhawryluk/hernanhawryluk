@@ -4,14 +4,13 @@ Hi 👋 My name is Hernan
 Full-Stack Developer
 --------------------
 
-<div align="center">
+<div>
   <a href="https://hernanhawryluk.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-gray?logo=react"></a>
   <a href="https://github.com/hernanhawryluk/hernanhawryluk/blob/main/README.es.md"><img alt="Cambiar idioma al español" src="https://img.shields.io/badge/traducir-español-yellow.svg"></a>
   <a href="#"><img alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=hernanhawryluk.hernanhawryluk"></a>
 </div>
 <br>
 
-<div align="center">
 I am a Full-Stack developer with solid experience in React, Node.js, and Next.js using TypeScript. I also have skills in Django, React Native, Bootstrap, and Tailwind, among other key technologies. I have knowledge in implementing relational and NoSQL databases such as Firebase and MongoDB. My versatile approach allows me to develop web and mobile applications comprehensively, from their initial conception to deployment.
 
 * 🌍  I'm based in Argentina, Buenos Aires.
@@ -19,7 +18,6 @@ I am a Full-Stack developer with solid experience in React, Node.js, and Next.js
 * ✉️  You can contact me at [LinkedIn](https://www.linkedin.com/in/hernan-hawryluk).
 * 🚀  Currently working as a Full Stack Developer.
 * 🧠  I'm learning Java and Spring Boot.
-</div>
 <br>
 
 ## My Skill Set  
@@ -81,17 +79,23 @@ const hernanHawryluk = {
 };
 ```
 
-### Socials
+<br>
 
-<p align="left"> 
-  <a href="https://www.github.com/hernanhawryluk" target="_blank"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" /> </picture> </a> 
-  <a href="https://www.linkedin.com/in/hernanhawryluk" target="_blank"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /> </picture> </a>
-</p>
+## Commits
 
-### Commits
-
+<div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hernanhawryluk/hernanhawryluk/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hernanhawryluk/hernanhawryluk/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hernanhawryluk/hernanhawryluk/output/github-contribution-grid-snake.svg">
 </picture>
+</div>
+
+<br>
+
+## Socials
+
+<p align="left"> 
+  <a href="https://www.github.com/hernanhawryluk" target="_blank"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" /> </picture> </a> 
+  <a href="https://www.linkedin.com/in/hernanhawryluk" target="_blank"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /> </picture> </a>
+</p>
