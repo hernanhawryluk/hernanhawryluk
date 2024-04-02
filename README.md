@@ -98,12 +98,15 @@ const hernanHawryluk = {
 
 <div>
   <a href="https://github.com/hernanhawryluk" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
+  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
   <a href="https://linkedin.com/in/hernan-hawryluk" target="_blank">
-  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
+  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="https://www.youtube.com/channel/UCPfXI175l66910dP1rMkD2w" target="_blank">
-  <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube />
+  <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" />
+  </a> 
+  <a href="https://www.youtube.com/channel/UCPfXI175l66910dP1rMkD2w" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%2324292e.svg?&style=for-the-badge&logo=react&logoColor=blue" alt="portfolio" />
   </a> 
 </div>
