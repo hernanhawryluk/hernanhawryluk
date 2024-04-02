@@ -5,7 +5,7 @@ Desarrollador Full-Stack
 ------------------------
 
 <div>
-  <a href="https://hernanhawryluk.vercel.app"><img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-gray?logo=react"></a>
+  <a href="https://hernan-hawryluk.vercel.app"><img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-gray?logo=react"></a>
   <a href="https://github.com/hernanhawryluk/hernanhawryluk/blob/main/README.es.md"><img alt="Change language to English" src="https://img.shields.io/badge/translate-english-red.svg"></a>
   <a href="#"><img alt="Visitas" src="https://visitor-badge.laobi.icu/badge?page_id=hernanhawryluk.hernanhawryluk"></a>
 </div>
@@ -106,7 +106,7 @@ const hernanHawryluk = {
   <a href="https://www.youtube.com/channel/UCPfXI175l66910dP1rMkD2w" target="_blank">
   <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" />
   </a> 
-  <a href="https://hernanhawryluk.vercel.app" target="_blank">
+  <a href="https://hernan-hawryluk.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portafolio-%2324292e.svg?&style=for-the-badge&logo=react&logoColor=blue" alt="portfolio" />
   </a> 
 </div>
