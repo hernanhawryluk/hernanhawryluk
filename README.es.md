@@ -72,7 +72,7 @@ const hernanHawryluk = {
         },
         backEnd: {
             typeScript: ["Node.js", "Express", "Next.js"],
-            django: ["Django, Django REST Framework"]
+            python: ["Django, Django REST Framework"]
         },
         databases: ["MySQL", "PostgreSQL", "SQLite", "MongoDB", "Firebase"],
         devOps: ["AWS", "Vercel", "Render"],
