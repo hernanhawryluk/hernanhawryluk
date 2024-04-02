@@ -62,7 +62,7 @@ Soy un desarrollador Full-Stack con sólida experiencia en React, Node.js y Next
 
 ```javascript
 const hernanHawryluk = {
-    role: "Desarrollador Full Stack",
+    role: "Full Stack Developer",
     code: ["Javascript", "TypeScript", "Python"],
     technologies: {
         frontEnd: {
