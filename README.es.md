@@ -1,23 +1,26 @@
-Hi 👋 My name is Hernan
-=======================
+Hola! 👋 Soy Hernan
+===================
 
-Full-Stack Developer
---------------------
+Desarrollador Full-Stack
+------------------------
 
-<h4>Language options</h4>
-  <a href="https://github.com/hernanhawryluk/hernanhawryluk/blob/main/README.es.md"><img alt="Cambiar idioma al español" src="https://img.shields.io/badge/idioma-español-yellow.svg"></a>
-  <a href="#"><img alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=hernanhawryluk.hernanhawryluk"></a>
+<div>
+  <a href="https://hernanhawryluk.vercel.app"><img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-gray?logo=react"></a>
+  <a href="https://github.com/hernanhawryluk/hernanhawryluk/blob/main/README.es.md"><img alt="Change language to English" src="https://img.shields.io/badge/translate-english-red.svg"></a>
+  <a href="#"><img alt="Visitas" src="https://visitor-badge.laobi.icu/badge?page_id=hernanhawryluk.hernanhawryluk"></a>
 </div>
+<br>
 
-I am a Full-Stack developer with solid experience in React, Node.js, and Next.js using TypeScript. I also have skills in Django, React Native, Bootstrap, and Tailwind, among other key technologies. I have knowledge in implementing relational and NoSQL databases such as Firebase and MongoDB. My versatile approach allows me to develop web and mobile applications comprehensively, from their initial conception to deployment.
+Soy un desarrollador Full-Stack con sólida experiencia en React, Node.js y Next.js utilizando TypeScript. También tengo habilidades con Django, React Native, Bootstrap y Tailwind entre otras tecnologías clave. Poseo conocimientos en la implementación de bases de datos relacionales y NoSQL como Firebase y MongoDB. Mi enfoque versátil me permite crear aplicaciones web y móviles de forma integral, desde su concepción inicial hasta su despliegue.
 
-* 🌍  I'm based in Argentina, Buenos Aires.
-* 🖥️  See my [portfolio](http://portfolio-hernan-hawryluks-projects.vercel.app/) deployed at Vercel.
-* ✉️  You can contact me at [LinkedIn](https://www.linkedin.com/in/hernan-hawryluk).
-* 🚀  Currently working as a Full Stack Developer.
-* 🧠  I'm learning Java and Spring Boot.
+* 🌍  Estoy ubicado en Argentina, Buenos Aires.
+* 🖥️  Visita mi [portafolio](https://hernan-hawryluk.vercel.app/) desplegado en Vercel.
+* ✉️   Puedes contactarme en [LinkedIn](https://www.linkedin.com/in/hernan-hawryluk).
+* 🚀  Actualmente trabajo como Desarrollador Full Stack.
+* 🧠  Estoy aprendiendo Java y Spring Boot.
+<br>
 
-## My Skill Set  
+## Mis habilidades
 
 <table style="border-style=dotted;">
   <tr>
@@ -44,7 +47,7 @@ I am a Full-Stack developer with solid experience in React, Node.js, and Next.js
         <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" height="50" alt="Express" /></a>
     </td>
     <td valign="top" align="center" width="33%">
-      <h2>Database</h2>
+      <h2>Base de datos</h2>
         <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" height="50" alt="MySQL" /></a>
         <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
         <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
@@ -52,13 +55,14 @@ I am a Full-Stack developer with solid experience in React, Node.js, and Next.js
         <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
     </td>
   </tr>
-</table>  
+</table>
+<br>
 
-### 💻 A little more about me...  
+## 💻 Yo mismo como un objeto de JavaScript
 
 ```javascript
 const hernanHawryluk = {
-    role: "Full Stack Developer",
+    role: "Desarrollador Full Stack",
     code: ["Javascript", "TypeScript", "Python"],
     technologies: {
         frontEnd: {
@@ -67,7 +71,8 @@ const hernanHawryluk = {
             styles: ["Tailwind CSS", "Bootstrap", "Material UI"]
         },
         backEnd: {
-            js: ["Django", "Node.js", "Express", "Next.js"],
+            typeScript: ["Node.js", "Express", "Next.js"],
+            django: ["Django, Django REST Framework"]
         },
         databases: ["MySQL", "PostgreSQL", "SQLite", "MongoDB", "Firebase"],
         devOps: ["AWS", "Vercel", "Render"],
@@ -75,13 +80,30 @@ const hernanHawryluk = {
 };
 ```
 
-### Socials
+<br>
 
-<p align="left"> 
-  <a href="https://www.github.com/hernanhawryluk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
-  <a href="https://www.linkedin.com/in/hernanhawryluk" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a>
-</p>
+## Commits
 
-### Commits
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hernanhawryluk/hernanhawryluk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hernanhawryluk/hernanhawryluk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hernanhawryluk/hernanhawryluk/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-<img src="https://raw.githubusercontent.com/hernanhawryluk/hernanhawryluk/output/snake.svg" alt="Snake animation" />
+<br>
+
+## Conéctate conmigo
+
+<div>
+  <a href="https://github.com/hernanhawryluk" target="_blank">
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
+  </a>
+  <a href="https://linkedin.com/in/hernan-hawryluk" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
+  </a>
+  <a href="https://www.youtube.com/channel/UCPfXI175l66910dP1rMkD2w" target="_blank">
+  <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube />
+  </a> 
+</div>
