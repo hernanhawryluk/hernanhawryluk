@@ -82,7 +82,7 @@ const hernanHawryluk = {
 
 <br>
 
-## Commits
+## Snake eating contribution graph
 
 <div align="center">
   <picture>
