@@ -106,7 +106,7 @@ const hernanHawryluk = {
   <a href="https://www.youtube.com/channel/UCPfXI175l66910dP1rMkD2w" target="_blank">
   <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="youtube" />
   </a> 
-  <a href="https://www.youtube.com/channel/UCPfXI175l66910dP1rMkD2w" target="_blank">
+  <a href="https://hernanhawryluk.vercel.app" target="_blank">
   <img src="https://img.shields.io/badge/Portafolio-%2324292e.svg?&style=for-the-badge&logo=react&logoColor=blue" alt="portfolio" />
   </a> 
 </div>
