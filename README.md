@@ -71,7 +71,8 @@ const hernanHawryluk = {
             styles: ["Tailwind CSS", "Bootstrap", "Material UI"]
         },
         backEnd: {
-            js: ["Django", "Node.js", "Express", "Next.js"],
+            typeScript: ["Django", "Node.js", "Express", "Next.js"],
+            python: ["Django, Django REST Framework"]
         },
         databases: ["MySQL", "PostgreSQL", "SQLite", "MongoDB", "Firebase"],
         devOps: ["AWS", "Vercel", "Render"],
