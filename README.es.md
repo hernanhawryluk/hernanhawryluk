@@ -82,7 +82,7 @@ const hernanHawryluk = {
 
 <br>
 
-## Commits
+## Serpiente devorando mis contribuciones
 
 <div align="center">
   <picture>
