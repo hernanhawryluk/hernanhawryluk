@@ -17,7 +17,7 @@ I am a Full-Stack developer with solid experience in React, Node.js, and Next.js
 * 🖥️  See my [portfolio](https://hernan-hawryluk.vercel.app/) deployed at Vercel.
 * ✉️  You can contact me at [LinkedIn](https://www.linkedin.com/in/hernan-hawryluk).
 * 🚀  Currently working as a Full Stack Developer.
-* 🧠  I'm learning Java and Spring Boot.
+* 🧠  I'm learning Swift and Kotlin.
 <br>
 
 ## My Skill Set  
