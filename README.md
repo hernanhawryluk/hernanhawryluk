@@ -34,7 +34,8 @@ I am a Full-Stack developer with solid experience in React, Node.js, and Next.js
         <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
         <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
         <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" height="50" alt="Bootstrap" /></a>
-        <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>   
+        <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>
+        <a href="[https://mui.com/](https://developer.apple.com/documentation/swiftui/)" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift.png" alt="Swift UI" height="50" /></a>
     </td>
     <td valign="top" align="center" width="33%">
       <h2>Back-end</h2> 
