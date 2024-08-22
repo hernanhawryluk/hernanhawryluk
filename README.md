@@ -1,8 +1,6 @@
-Hi 👋 My name is Hernan
-=======================
+# Hi 👋 My name is Hernan
 
-Full-Stack Developer
---------------------
+## Full-Stack Developer
 
 <div>
   <a href="https://hernan-hawryluk.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-gray?logo=react"></a>
@@ -13,14 +11,14 @@ Full-Stack Developer
 
 I am a Full-Stack developer with solid experience in React, Node.js, and Next.js using TypeScript. I also have skills in Django, React Native, Bootstrap, and Tailwind, among other key technologies. I have knowledge in implementing relational and NoSQL databases such as Firebase and MongoDB. My versatile approach allows me to develop web and mobile applications comprehensively, from their initial conception to deployment.
 
-* 🌍  I'm based in Argentina, Buenos Aires.
-* 🖥️  See my [portfolio](https://hernan-hawryluk.vercel.app/) deployed at Vercel.
-* ✉️  You can contact me at [LinkedIn](https://www.linkedin.com/in/hernan-hawryluk).
-* 🚀  Currently working as a Full Stack Developer.
-* 🧠  I'm learning Swift and Kotlin.
-<br>
+- 🌍 I'm based in Argentina, Buenos Aires.
+- 🖥️ See my [portfolio](https://hernan-hawryluk.vercel.app/) deployed at Vercel.
+- ✉️ You can contact me at [LinkedIn](https://www.linkedin.com/in/hernan-hawryluk).
+- 🚀 Currently working as a Full Stack Developer.
+- 🧠 I'm learning Swift and Kotlin.
+  <br>
 
-## My Skill Set  
+## My Skill Set
 
 <table style="border-style=dotted;">
   <tr>
@@ -28,14 +26,15 @@ I am a Full-Stack developer with solid experience in React, Node.js, and Next.js
       <h2>Front-end</h2>
         <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" height="50" alt="HTML5" /></a>
         <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" height="50" alt="CSS3" /></a>
-        <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+        <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+        <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
+        <a href="https://developer.apple.com/swift" target="_blank"><img style="margin: 10px" src="./Assets/swift.png" alt="Swift" height="50" /></a>
         <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="50" alt="React" /></a>
         <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-        <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
         <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
         <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" height="50" alt="Bootstrap" /></a>
         <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>
-        <a href="https://developer.apple.com/swift" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift UI" height="50" /></a>
+        <a href="https://developer.apple.com/xcode/swiftui/" target="_blank"><img style="margin: 10px" src="./Assets/swift-ui.png" alt="Swift UI" height="50" /></a>
     </td>
     <td valign="top" align="center" width="33%">
       <h2>Back-end</h2> 
@@ -63,21 +62,21 @@ I am a Full-Stack developer with solid experience in React, Node.js, and Next.js
 
 ```javascript
 const hernanHawryluk = {
-    role: "Full Stack Developer",
-    code: ["Javascript", "TypeScript", "Python"],
-    technologies: {
-        frontEnd: {
-            basic: ["HTML", "CSS", "JavaScript"],
-            frameworks: ["React", "Next.js", "React Native"],
-            styles: ["Tailwind CSS", "Bootstrap", "Material UI"]
-        },
-        backEnd: {
-            typeScript: ["Django", "Node.js", "Express", "Next.js"],
-            python: ["Django, Django REST Framework"]
-        },
-        databases: ["MySQL", "PostgreSQL", "SQLite", "MongoDB", "Firebase"],
-        devOps: ["AWS", "Vercel", "Render"],
+  role: "Full Stack Developer",
+  code: ["Javascript", "TypeScript", "Python"],
+  technologies: {
+    frontEnd: {
+      basic: ["HTML", "CSS", "JavaScript"],
+      frameworks: ["React", "Next.js", "React Native"],
+      styles: ["Tailwind CSS", "Bootstrap", "Material UI"],
     },
+    backEnd: {
+      typeScript: ["Django", "Node.js", "Express", "Next.js"],
+      python: ["Django, Django REST Framework"],
+    },
+    databases: ["MySQL", "PostgreSQL", "SQLite", "MongoDB", "Firebase"],
+    devOps: ["AWS", "Vercel", "Render"],
+  },
 };
 ```
 
