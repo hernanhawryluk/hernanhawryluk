@@ -57,33 +57,48 @@ I am currently working as a Mobile Developer with solid experience in React Nati
 </table>
 <br>
 
-## 💻 Myself as a JavaScript object
+## 💻 Myself as an instance of a class in Python
 
-```javascript
-const hernanHawryluk = {
-  role: "Full Stack Mobile Developer",
-  languages: ["Spanish", "English"],
-  codingLanguages: ["Javascript", "TypeScript", "Swift", "Python"],
-  technologies: {
-    frontEnd: {
-      basics: ["HTML", "CSS", "JavaScript"],
-      web: ["React", "Next.js", "Tailwind CSS", "Bootstrap"],
-      mobile: ["React Native", "SwiftUI"],
-    },
-    backEnd: {
-      typeScriptStack: ["Node.js", "Express", "Next.js"],
-      pythonStack: ["Django, Django REST Framework"],
-    },
-    databases: {
-      sql: ["MySQL", "PostgreSQL", "SQLite"],
-      noSQL: ["MongoDB", "Firebase"],
-    },
-    devOps: {
-      hosting: ["Vercel"],
-      mobile: ["Google PlayStore", "Apple AppStore"],
-    },
-  },
-};
+```python
+class FullStackDeveloper:
+    def __init__(self, role):
+        self.role = role
+        self.languages = ["Spanish", "English"]
+        self.coding_languages = ["Javascript", "TypeScript", "Swift", "Python"]
+        self.technologies = {
+            "front_end": {
+                "basics": ["HTML", "CSS", "JavaScript"],
+                "web": ["React", "Next.js", "Tailwind CSS", "Bootstrap"],
+                "mobile": ["React Native", "SwiftUI"],
+            },
+            "back_end": {
+                "typescript_stack": ["Node.js", "Express", "Next.js"],
+                "python_stack": ["Django", "Django REST Framework"],
+            },
+            "databases": {
+                "sql": ["MySQL", "PostgreSQL", "SQLite"],
+                "no_sql": ["MongoDB", "Firebase"],
+            },
+            "dev_ops": {
+                "hosting": ["Vercel"],
+                "mobile": ["Google PlayStore", "Apple AppStore"],
+            },
+        }
+
+    def work(self, tech_type, tech_category, tech_name):
+        if tech_type in self.technologies:
+            if tech_category in self.technologies[tech_type]:
+                if tech_name in self.technologies[tech_type][tech_category]:
+                    return f"Working with {tech_name} in {tech_category} under {tech_type}."
+                else:
+                    return f"{tech_name} is not in {tech_category} technologies, will begin learning it."
+            else:
+                return f"{tech_category} is not a valid category under {tech_type}."
+        else:
+            return f"{tech_type} is not a valid technology type."
+
+hernan_hawryluk = FullStackDeveloper("Mobile Developer")
+work = hernan_hawryluk("front_end", "mobile", "React Native")
 ```
 
 <br>

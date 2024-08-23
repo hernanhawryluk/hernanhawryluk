@@ -57,33 +57,53 @@ Actualmente estoy trabajando como Desarrollador Mobile con sólida experiencia e
 </table>
 <br>
 
-## 💻 Yo mismo como un objeto de JavaScript
+## 💻 Yo mismo como una instancia de una clase en Python
 
-```javascript
-const hernanHawryluk = {
-  role: "Full Stack Mobile Developer",
-  languages: ["Spanish", "English"],
-  codingLanguages: ["Javascript", "TypeScript", "Swift", "Python"],
-  technologies: {
-    frontEnd: {
-      basics: ["HTML", "CSS", "JavaScript"],
-      web: ["React", "Next.js", "Tailwind CSS", "Bootstrap"],
-      mobile: ["React Native", "SwiftUI"],
-    },
-    backEnd: {
-      typeScriptStack: ["Node.js", "Express", "Next.js"],
-      pythonStack: ["Django, Django REST Framework"],
-    },
-    databases: {
-      sql: ["MySQL", "PostgreSQL", "SQLite"],
-      noSQL: ["MongoDB", "Firebase"],
-    },
-    devOps: {
-      hosting: ["Vercel"],
-      mobile: ["Google PlayStore", "Apple AppStore"],
-    },
-  },
-};
+```python
+class FullStackDeveloper:
+    def __init__(self, fullname, role, workplace):
+        self.fullname = fullname
+        self.role = role
+        self.workplace = workplace
+        self.languages = ["Spanish", "English"]
+        self.coding_languages = ["Javascript", "TypeScript", "Swift", "Python"]
+        self.technologies = {
+            "front_end": {
+                "basics": ["HTML", "CSS", "JavaScript"],
+                "web": ["React", "Next.js", "Tailwind CSS", "Bootstrap"],
+                "mobile": ["React Native", "SwiftUI"],
+            },
+            "back_end": {
+                "typescript": ["Node.js", "Express", "Next.js"],
+                "python": ["Django", "Django REST Framework"],
+            },
+            "databases": {
+                "sql": ["MySQL", "PostgreSQL", "SQLite"],
+                "no_sql": ["MongoDB", "Firebase"],
+            },
+            "dev_ops": {
+                "hosting": ["Vercel"],
+                "mobile": ["Google PlayStore", "Apple AppStore"],
+            },
+        }
+
+    def work(self, tech_type, tech_category, tech_name):
+        if tech_type in self.technologies:
+            if tech_category in self.technologies[tech_type]:
+                if tech_name in self.technologies[tech_type][tech_category]:
+                    return f"Currently working on {tech_category} development using {tech_name}."
+                else:
+                    return f"{tech_name} is not part of my {tech_category} technologies, I will start learning it."
+            else:
+                return f"{tech_category} is not a valid category under {tech_type}."
+        else:
+            return f"{tech_type} is not a valid technology type."
+
+hernan_hawryluk = FullStackDeveloper("Hernan Hawryluk", "Mobile Developer", "Bytewave")
+work = hernan_hawryluk.work("front_end", "mobile", "React Native")
+
+print(f"Hello! My name is {hernan_hawryluk.fullname}, and I am a {hernan_hawryluk.role} at {hernan_hawryluk.workplace}.")
+print(work)
 ```
 
 <br>
