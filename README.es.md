@@ -9,13 +9,13 @@
 </div>
 <br>
 
-Soy un desarrollador Full-Stack con sólida experiencia en React, Node.js y Next.js utilizando TypeScript. También tengo habilidades con Django, React Native, Bootstrap y Tailwind entre otras tecnologías clave. Poseo conocimientos en la implementación de bases de datos relacionales y NoSQL como Firebase y MongoDB. Mi enfoque versátil me permite crear aplicaciones web y móviles de forma integral, desde su concepción inicial hasta su despliegue.
+Actualmente estoy trabajando como Desarrollador Mobile con sólida experiencia en React Native y SwiftUI. Me considero un desarrollador Full-stack ya que también tengo experiencia en tecnologías de front-end como React y Next.js con TypeScript, así también del back-end con Node.js y Django. He implementado bases de datos relacionales y NoSQL, incluyendo Firebase y MongoDB. Por eso, mi enfoque versátil me permite desarrollar o colaborar en el diseño de aplicaciones web y móviles de forma integral, desde su concepción inicial hasta su despliegue.
 
-- 🌍 Estoy ubicado en Argentina, Buenos Aires.
-- 🖥️ Visita mi [portafolio](https://hernan-hawryluk.vercel.app/) desplegado en Vercel.
+- 🌍 Estoy ubicado en Argentina, Buenos Aires, Monte Grande.
+- 🖥️ Visita mi [portafolio](https://hernan-hawryluk.vercel.app/) desarrollado en Next.js y desplegado en Vercel.
+- 🚀 Actualmente trabajo como Desarrollador Mobile.
 - ✉️ Puedes contactarme en [LinkedIn](https://www.linkedin.com/in/hernan-hawryluk).
-- 🚀 Actualmente trabajo como Desarrollador Full Stack.
-- 🧠 Estoy aprendiendo Java y Spring Boot.
+- 🧠 Estoy aprendiendo Kotlin.
   <br>
 
 ## Mis habilidades
@@ -34,7 +34,6 @@ Soy un desarrollador Full-Stack con sólida experiencia en React, Node.js y Next
         <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>
         <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
         <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" height="50" alt="Bootstrap" /></a>
-        <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>
     </td>
     <td valign="top" align="center" width="33%">
       <h2>Back-end</h2> 
@@ -62,20 +61,27 @@ Soy un desarrollador Full-Stack con sólida experiencia en React, Node.js y Next
 
 ```javascript
 const hernanHawryluk = {
-  role: "Full Stack Developer",
-  code: ["Javascript", "TypeScript", "Python"],
+  role: "Full Stack Mobile Developer",
+  languages: ["Spanish", "English"],
+  codingLanguages: ["Javascript", "TypeScript", "Swift", "Python"],
   technologies: {
     frontEnd: {
-      basic: ["HTML", "CSS", "JavaScript"],
-      frameworks: ["React", "Next.js", "React Native"],
-      styles: ["Tailwind CSS", "Bootstrap", "Material UI"],
+      basics: ["HTML", "CSS", "JavaScript",]
+      web: ["React", "Next.js", "Tailwind CSS", "Bootstrap"],
+      mobile: ["React Native", "SwiftUI"],
     },
     backEnd: {
-      typeScript: ["Node.js", "Express", "Next.js"],
-      python: ["Django, Django REST Framework"],
+      typeScriptStack: ["Node.js", "Express", "Next.js"],
+      pythonStack: ["Django, Django REST Framework"],
     },
-    databases: ["MySQL", "PostgreSQL", "SQLite", "MongoDB", "Firebase"],
-    devOps: ["AWS", "Vercel", "Render"],
+    databases: {
+      sql: ["MySQL", "PostgreSQL", "SQLite"],
+      noSQL: ["MongoDB", "Firebase"],
+    },
+    devOps: {
+      hosting: ["Vercel"],
+      mobile: ["Google PlayStore", "Apple AppStore"],
+    },
   },
 };
 ```
