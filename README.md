@@ -57,12 +57,14 @@ I am currently working as a Mobile Developer with solid experience in React Nati
 </table>
 <br>
 
-## 💻 Myself as an instance of a class in Python
+## 💻 Representing myself as an instance of a class in Python
 
 ```python
 class FullStackDeveloper:
-    def __init__(self, role):
+    def __init__(self, fullname, role, workplace):
+        self.fullname = fullname
         self.role = role
+        self.workplace = workplace
         self.languages = ["Spanish", "English"]
         self.coding_languages = ["Javascript", "TypeScript", "Swift", "Python"]
         self.technologies = {
@@ -72,8 +74,8 @@ class FullStackDeveloper:
                 "mobile": ["React Native", "SwiftUI"],
             },
             "back_end": {
-                "typescript_stack": ["Node.js", "Express", "Next.js"],
-                "python_stack": ["Django", "Django REST Framework"],
+                "typescript": ["Node.js", "Express", "Next.js"],
+                "python": ["Django", "Django REST Framework"],
             },
             "databases": {
                 "sql": ["MySQL", "PostgreSQL", "SQLite"],
@@ -89,16 +91,19 @@ class FullStackDeveloper:
         if tech_type in self.technologies:
             if tech_category in self.technologies[tech_type]:
                 if tech_name in self.technologies[tech_type][tech_category]:
-                    return f"Working with {tech_name} in {tech_category} under {tech_type}."
+                    return f"Currently working on {tech_category} development using {tech_name}."
                 else:
-                    return f"{tech_name} is not in {tech_category} technologies, will begin learning it."
+                    return f"{tech_name} is not part of my {tech_category} technologies, I will start learning it."
             else:
                 return f"{tech_category} is not a valid category under {tech_type}."
         else:
             return f"{tech_type} is not a valid technology type."
 
-hernan_hawryluk = FullStackDeveloper("Mobile Developer")
-work = hernan_hawryluk("front_end", "mobile", "React Native")
+hernan_hawryluk = FullStackDeveloper("Hernan Hawryluk", "Mobile Developer", "Bytewave")
+work = hernan_hawryluk.work("front_end", "mobile", "React Native")
+
+print(f"Hello! My name is {hernan_hawryluk.fullname}, and I am a {hernan_hawryluk.role} at {hernan_hawryluk.workplace}.")
+print(work)
 ```
 
 <br>
