@@ -66,7 +66,7 @@ const hernanHawryluk = {
   codingLanguages: ["Javascript", "TypeScript", "Swift", "Python"],
   technologies: {
     frontEnd: {
-      basics: ["HTML", "CSS", "JavaScript",]
+      basics: ["HTML", "CSS", "JavaScript"],
       web: ["React", "Next.js", "Tailwind CSS", "Bootstrap"],
       mobile: ["React Native", "SwiftUI"],
     },
