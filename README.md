@@ -9,13 +9,12 @@
 </div>
 <br>
 
-I am currently working as a Mobile Developer with solid experience in React Native and SwiftUI. I consider myself a Full-stack developer as I also have experience with front-end technologies like React and Next.js with TypeScript, as well as back-end with Node.js and Django. I have implemented both relational and NoSQL databases, including Firebase and MongoDB. Therefore, my versatile approach enables me to develop or collaborate in the design of web and mobile applications comprehensively, from initial conception to deployment.
+I am currently working as a Mobile Developer with solid experience in React Native, SwiftUI and Kotlin. I consider myself a Full-stack developer as I also have experience with front-end technologies like React and Next.js with TypeScript, as well as back-end with Node.js and Django. I have implemented both relational and NoSQL databases, including Firebase and MongoDB. Therefore, my versatile approach enables me to develop or collaborate in the design of web and mobile applications comprehensively, from initial conception to deployment.
 
 - 🌍 I'm based in Argentina, Buenos Aires, Monte Grande.
 - 🖥️ See my [portfolio](https://hernan-hawryluk.vercel.app/) developed in Next.js and deployed on Vercel.
 - 🚀 Currently working as a Mobile Developer.
 - ✉️ You can contact me at [LinkedIn](https://www.linkedin.com/in/hernan-hawryluk).
-- 🧠 I'm learning Kotlin.
   <br>
 
 ## My Skill Set
@@ -30,6 +29,7 @@ I am currently working as a Mobile Developer with solid experience in React Nati
         <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
         <a href="https://developer.apple.com/swift" target="_blank"><img style="margin: 10px" src="./Assets/swift.png" alt="Swift" height="50" /></a>
         <a href="https://developer.apple.com/xcode/swiftui/" target="_blank"><img style="margin: 10px" src="./Assets/swift-ui.png" alt="Swift UI" height="50" /></a>
+        <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" height="50" alt="Kotlin" /></a>
         <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="50" alt="React" /></a>
         <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>
         <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
