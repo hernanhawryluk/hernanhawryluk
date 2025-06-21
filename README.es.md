@@ -50,7 +50,7 @@ He liderado equipos de desarrollo, fomentando la colaboración efectiva, flujos 
   <img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" height="50" alt="Java" />
 </a>
       <a href="https://spring.io/projects/spring-boot" target="_blank">
-  <img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-colored.svg" height="50" alt="Spring Boot" />
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/springboot-colored.svg" height="50" alt="Spring Boot" />
 </a>
     </td>
     <td valign="top" align="center" width="33%">
