@@ -9,7 +9,9 @@
 </div>
 <br>
 
-I am currently working as a Mobile Developer with solid experience in React Native, SwiftUI and Kotlin. I consider myself a Full-stack developer as I also have experience with front-end technologies like React and Next.js with TypeScript, as well as back-end with Node.js and Django. I have implemented both relational and NoSQL databases, including Firebase and MongoDB. Therefore, my versatile approach enables me to develop or collaborate in the design of web and mobile applications comprehensively, from initial conception to deployment.
+Full Stack Developer specialized in mobile applications with strong experience in React Native for cross-platform development, Swift with SwiftUI for native iOS apps, and Kotlin with Jetpack Compose for Android. I have a solid background in building high-quality, scalable, and stable solutions, always aiming to deliver excellent user experiences. I actively participate in the full development cycle, including client interaction, requirement gathering, project planning, development, deployment, and ongoing production support.
+
+I have led development teams, promoting effective collaboration, organized workflows, and the achievement of project goals in a timely and efficient manner. I am well-versed in Agile and Scrum methodologies, and I consistently apply best practices in development, code optimization, and CI/CD processes to ensure continuous improvement and reliable delivery. I am passionate about working on challenging projects where I can provide real value, solve meaningful problems, and continue growing as a developer and as a leader.
 
 - 🌍 I'm based in Argentina, Buenos Aires, Monte Grande.
 - 🖥️ See my [portfolio](https://hernan-hawryluk.vercel.app/) developed in Next.js and deployed on Vercel.
