@@ -51,7 +51,7 @@ I have led development teams, promoting effective collaboration, organized workf
         <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/springboot-colored.svg" height="50" alt="Spring Boot" /></a>
     </td>
     <td valign="top" align="center" width="33%">
-      <h2>DB & DevOps</h2>
+      <h2>DB & Cloud</h2>
         <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" height="50" alt="MySQL" /></a>
         <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
         <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
