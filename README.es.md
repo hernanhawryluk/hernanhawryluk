@@ -46,6 +46,12 @@ He liderado equipos de desarrollo, fomentando la colaboración efectiva, flujos 
         <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
         <a href="https://nodejs.org/en/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" height="50" alt="NodeJS" /></a>
         <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" height="50" alt="Express" /></a>
+      <a href="https://www.java.com/" target="_blank">
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" height="50" alt="Java" />
+</a>
+      <a href="https://spring.io/projects/spring-boot" target="_blank">
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-colored.svg" height="50" alt="Spring Boot" />
+</a>
     </td>
     <td valign="top" align="center" width="33%">
       <h2>Base de datos</h2>
