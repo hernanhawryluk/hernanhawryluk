@@ -75,8 +75,8 @@ class FullStackDeveloper:
         self.fullname = fullname
         self.role = role
         self.workplace = workplace
-        self.languages = ["Spanish", "English"]
-        self.coding_languages = ["JavaScript", "TypeScript", "Swift", "Kotlin", "Python", "Java"]
+        self.languages = {"Spanish", "English"}
+        self.coding_languages = {"JavaScript", "TypeScript", "Swift", "Kotlin", "Python", "Java"}
         self.technologies = {
             "front_end": {
                 "basics": ["HTML", "CSS", "JavaScript"],
@@ -99,19 +99,19 @@ class FullStackDeveloper:
         }
 
     def work(self, tech_type, tech_category, tech_name):
-        if tech_type in self.technologies:
-            if tech_category in self.technologies[tech_type]:
-                if tech_name in self.technologies[tech_type][tech_category]:
-                    return f"Currently working on {tech_category} development using {tech_name}."
-                else:
-                    return f"{tech_name} is not part of my {tech_category} stack. I am open to learning it."
+        try:
+            if tech_name in self.technologies[tech_type][tech_category]:
+                return f"Actualmente estoy trabajando en desarrollo de {tech_category} utilizando {tech_name}."
             else:
-                return f"{tech_category} is not a valid category under {tech_type}."
-        else:
-            return f"{tech_type} is not a valid technology type."
+                return f"{tech_name} no forma parte de mi stack de {tech_category}. Estoy abierto a aprenderlo."
+        except KeyError:
+            return f"'{tech_category}' no es una categoría válida dentro de '{tech_type}'."
 
     def __str__(self):
-        return f"Hello! My name is {self.fullname}, and I am a {self.role} at {self.workplace}."
+        return f"¡Hola! Mi nombre es {self.fullname}, y soy {self.role} en {self.workplace}."
+
+    def __repr__(self):
+        return f"FullStackDeveloper(fullname='{self.fullname}', role='{self.role}', workplace='{self.workplace}')"
 
 hernan_hawryluk = FullStackDeveloper("Hernan Hawryluk", "Mobile Developer", "Bytewave")
 work = hernan_hawryluk.work("front_end", "mobile", "React Native")
