@@ -33,6 +33,7 @@ He liderado equipos de desarrollo, fomentando la colaboración efectiva, flujos 
         <a href="https://developer.apple.com/xcode/swiftui/" target="_blank"><img style="margin: 10px" src="./Assets/swift-ui.png" alt="Swift UI" height="50" /></a>
         <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" height="50" alt="Kotlin" /></a>
         <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="50" alt="React" /></a>
+        <a href="https://expo.dev/" target="_blank"><img style="margin: 10px" src="./Assets/expo.png" height="50" alt="Expo" /></a>
         <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>
         <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
         <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" height="50" alt="Bootstrap" /></a>
@@ -46,12 +47,8 @@ He liderado equipos de desarrollo, fomentando la colaboración efectiva, flujos 
         <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
         <a href="https://nodejs.org/en/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" height="50" alt="NodeJS" /></a>
         <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" height="50" alt="Express" /></a>
-      <a href="https://www.java.com/" target="_blank">
-  <img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" height="50" alt="Java" />
-</a>
-      <a href="https://spring.io/projects/spring-boot" target="_blank">
-  <img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/springboot-colored.svg" height="50" alt="Spring Boot" />
-</a>
+        <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" height="50" alt="Java" /></a>
+      <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/springboot-colored.svg" height="50" alt="Spring Boot" /></a>
     </td>
     <td valign="top" align="center" width="33%">
       <h2>Base de datos</h2>
