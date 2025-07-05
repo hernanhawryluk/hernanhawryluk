@@ -26,42 +26,42 @@ I have led development teams, promoting effective collaboration, organized workf
     <td valign="top" align="center" width="33%">
       <h2>Front-end</h2>
         <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" height="50" width="50" alt="HTML5" /></a>
-        <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" height="50" alt="CSS3" /></a>
-        <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-        <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-        <a href="https://developer.apple.com/swift" target="_blank"><img style="margin: 10px" src="./Assets/swift.png" alt="Swift" height="50" /></a>
-        <a href="https://developer.apple.com/xcode/swiftui/" target="_blank"><img style="margin: 10px" src="./Assets/swift-ui.png" alt="Swift UI" height="50" /></a>
-        <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" height="50" alt="Kotlin" /></a>
-        <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="50" alt="React" /></a>
-        <a href="https://expo.dev/" target="_blank"><img style="margin: 10px" src="./Assets/expo.png" height="50" alt="Expo" /></a>
-        <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>
-        <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-        <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" height="50" alt="Bootstrap" /></a>
+        <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" height="50" width="50" alt="CSS3" /></a>
+        <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" width="50" /></a>
+        <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" width="50" /></a>
+        <a href="https://developer.apple.com/swift" target="_blank"><img style="margin: 10px" src="./Assets/swift.png" alt="Swift" height="50" width="50" /></a>
+        <a href="https://developer.apple.com/xcode/swiftui/" target="_blank"><img style="margin: 10px" src="./Assets/swift-ui.png" alt="Swift UI" height="50" width="50" /></a>
+        <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" height="50" width="50" alt="Kotlin" /></a>
+        <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="50" width="50" alt="React" /></a>
+        <a href="https://expo.dev/" target="_blank"><img style="margin: 10px" src="./Assets/expo.png" height="50" width="50" alt="Expo" /></a>
+        <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" width="50" /></a>
+        <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" width="50" /></a>  
+        <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" height="50" width="50" alt="Bootstrap" /></a>
     </td>
     <td valign="top" align="center" width="33%">
       <h2>Back-end</h2> 
-        <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-        <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" height="50" alt="Django" /></a>
-        <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-        <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-        <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-        <a href="https://nodejs.org/en/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" height="50" alt="NodeJS" /></a>
-        <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" height="50" alt="Express" /></a>
-        <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" height="50" alt="Java" /></a>
-        <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/springboot-colored.svg" height="50" alt="Spring Boot" /></a>
+        <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" width="50" /></a>  
+        <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" height="50" width="50" alt="Django" /></a>
+        <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" width="50" /></a>  
+        <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" width="50" /></a>
+        <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" width="50" /></a>  
+        <a href="https://nodejs.org/en/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" height="50" width="50" alt="NodeJS" /></a>
+        <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" height="50" width="50" alt="Express" /></a>
+        <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" height="50" width="50" alt="Java" /></a>
+        <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/springboot-colored.svg" height="50" width="50" alt="Spring Boot" /></a>
     </td>
     <td valign="top" align="center" width="33%">
       <h2>DB & Cloud</h2>
-        <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" height="50" alt="MySQL" /></a>
-        <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-        <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
-        <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" height="50" alt="MongoDB" /></a>
-        <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
-        <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" height="50" alt="GNU Bash" title="GNU Bash"/></a>
-        <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" height="50" alt="Google Cloud" title="Google Cloud"/></a>
-        <a href="https://play.google.com/store" target="_blank"><img style="margin: 10px" src="./Assets/googleplay.png" height="50" alt="Google Play" /></a>
-        <a href="https://www.apple.com/app-store/" target="_blank"><img style="margin: 10px" src="./Assets/appstore.png" alt="App Store" height="50" /></a>
-        <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" alt="AWS" height="50" /></a>
+        <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" height="50" width="50" alt="MySQL" /></a>
+        <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" width="50" /></a>  
+        <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" width="50" /></a>  
+        <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" height="50" width="50" alt="MongoDB" /></a>
+        <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" width="50" /></a>
+        <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" height="50" width="50" alt="GNU Bash" title="GNU Bash"/></a>
+        <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" height="50" width="50" alt="Google Cloud" title="Google Cloud"/></a>
+        <a href="https://play.google.com/store" target="_blank"><img style="margin: 10px" src="./Assets/googleplay.png" height="50" width="50" alt="Google Play" /></a>
+        <a href="https://www.apple.com/app-store/" target="_blank"><img style="margin: 10px" src="./Assets/appstore.png" alt="App Store" height="50" width="50" /></a>
+        <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" alt="AWS" height="50" width="50" /></a>
     </td>
   </tr>
 </table>
