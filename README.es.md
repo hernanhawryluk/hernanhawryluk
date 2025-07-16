@@ -62,6 +62,7 @@ He liderado equipos de desarrollo, fomentando la colaboración efectiva, flujos 
         <a href="https://play.google.com/store" target="_blank"><img style="margin: 10px" src="./Assets/googleplay.png" height="50" width="50" alt="Google Play" /></a>
         <a href="https://www.apple.com/app-store/" target="_blank"><img style="margin: 10px" src="./Assets/appstore.png" alt="App Store" height="50" width="50" /></a>
         <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" alt="AWS" height="50" width="50" /></a>
+        <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="AWS" height="50" width="50" /></a>
     </td>
   </tr>
 </table>
