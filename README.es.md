@@ -9,13 +9,15 @@
 </div>
 <br>
 
-Desarrollador Full Stack especializado en aplicaciones móviles, con sólida experiencia en React Native para desarrollo multiplataforma, Swift con SwiftUI para aplicaciones nativas en iOS y Kotlin con Jetpack Compose para Android. Tengo una sólida trayectoria en la construcción de soluciones de calidad, escalables y estables, siempre enfocado en ofrecer excelentes experiencias de usuario. Participo activamente en todo el ciclo de desarrollo, incluyendo la interacción con clientes, la recopilación de requerimientos, la planificación de proyectos, el desarrollo, el despliegue y el soporte continuo en producción.
+Desarrollador Full-Stack enfocado en Backend, especializado en Java y Spring Boot, construyendo APIs escalables, microservicios y sistemas distribuidos. Con experiencia en AWS, Docker y CI/CD, con un fuerte enfoque en rendimiento, seguridad (JWT, OAuth2, OWASP) y confiabilidad.
 
-He liderado equipos de desarrollo, fomentando la colaboración efectiva, flujos de trabajo organizados y el cumplimiento de los objetivos del proyecto de manera oportuna y eficiente. Tengo experiencia en metodologías Agile y Scrum, y aplico de forma constante buenas prácticas en desarrollo, optimización de código y procesos de CI/CD para asegurar una mejora continua y entregas confiables. Me apasiona trabajar en proyectos desafiantes donde pueda aportar valor real, resolver problemas significativos y seguir creciendo tanto como desarrollador como líder.
+Especializado en la optimización de sistemas backend mediante el uso de Redis, WebSockets y manejo robusto de errores. También cuento con experiencia en desarrollo frontend y mobile (React, Next.js, React Native, Swift, Kotlin), cubriendo todo el ciclo de desarrollo.
+
+He liderado equipos y proyectos utilizando metodologías Agile, entregando soluciones de alta calidad alineadas con los objetivos del negocio.
 
 - 🌍 Estoy ubicado en Argentina, Buenos Aires, Monte Grande.
 - 🖥️ Visita mi [portafolio](https://hernan-hawryluk.vercel.app/) desarrollado en Next.js y desplegado en Vercel.
-- 🚀 Actualmente trabajo como Desarrollador Mobile.
+- 🚀 Actualmente trabajo como Desarrollador Full-Stack.
 - ✉️ Puedes contactarme en [LinkedIn](https://www.linkedin.com/in/hernan-hawryluk).
   <br>
 
