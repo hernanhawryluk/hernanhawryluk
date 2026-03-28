@@ -9,9 +9,17 @@
 </div>
 <br>
 
-Full Stack Developer specialized in mobile applications with strong experience in React Native for cross-platform development, Swift with SwiftUI for native iOS apps, and Kotlin with Jetpack Compose for Android. I have a solid background in building high-quality, scalable, and stable solutions, always aiming to deliver excellent user experiences. I actively participate in the full development cycle, including client interaction, requirement gathering, project planning, development, deployment, and ongoing production support.
+Backend-focused Full-Stack Developer specialized in Java and Spring Boot, with strong experience in designing and implementing scalable REST APIs, microservices, and distributed systems. I have hands-on experience deploying and operating applications in cloud environments such as AWS, focusing on building high-performance and reliable backend architectures with solid foundations in relational databases (SQL), security, and system design.
 
-I have led development teams, promoting effective collaboration, organized workflows, and the achievement of project goals in a timely and efficient manner. I am well-versed in Agile and Scrum methodologies, and I consistently apply best practices in development, code optimization, and CI/CD processes to ensure continuous improvement and reliable delivery. I am passionate about working on challenging projects where I can provide real value, solve meaningful problems, and continue growing as a developer and as a leader.
+I have a strong background in application security and API auditing, applying best practices based on OWASP. I have implemented secure authentication and authorization mechanisms (JWT, OAuth2), access control, rate limiting, and protection of sensitive data, ensuring robust and secure systems.
+
+I optimize backend performance through caching strategies with Redis, real-time communication using WebSockets, and automated testing with JUnit. I also implement concurrency control, resilient integrations with external APIs, and robust error handling to improve system stability and reliability.
+
+Additionally, I work with cloud infrastructure and DevOps practices, mainly in AWS, using Docker and CI/CD pipelines to automate deployments, manage production environments, and ensure continuous delivery.
+
+While my main focus is backend development, I complement my profile with experience in frontend and mobile technologies, including React, Next.js, Tailwind, React Native, Swift/SwiftUI, and Kotlin/Jetpack Compose, handling full lifecycle development from build to deployment in App Store and Google Play.
+
+I have led development teams and projects, applying Agile and Scrum methodologies, collaborating closely with clients in requirement definition and planning, and ensuring high-quality, timely deliveries aligned with business goals.
 
 - 🌍 I'm based in Argentina, Buenos Aires, Monte Grande.
 - 🖥️ See my [portfolio](https://hernan-hawryluk.vercel.app/) developed in Next.js and deployed on Vercel.
