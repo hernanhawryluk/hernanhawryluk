@@ -1,6 +1,6 @@
 # Hi 👋 My name is Hernan
 
-## Full-Stack Mobile Developer
+## Full-Stack Developer
 
 <div>
   <a href="https://hernan-hawryluk.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-gray?logo=react"></a>
