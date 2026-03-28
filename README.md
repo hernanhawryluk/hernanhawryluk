@@ -17,7 +17,7 @@ I have led teams and projects using Agile methodologies, delivering high-quality
 
 - 🌍 I'm based in Argentina, Buenos Aires, Monte Grande.
 - 🖥️ See my [portfolio](https://hernan-hawryluk.vercel.app/) developed in Next.js and deployed on Vercel.
-- 🚀 Currently working as a Mobile Developer.
+- 🚀 Currently working as a Full-Stack Developer.
 - ✉️ You can contact me at [LinkedIn](https://www.linkedin.com/in/hernan-hawryluk).
   <br>
 
