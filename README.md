@@ -9,17 +9,11 @@
 </div>
 <br>
 
-Backend-focused Full-Stack Developer specialized in Java and Spring Boot, with strong experience in designing and implementing scalable REST APIs, microservices, and distributed systems. I have hands-on experience deploying and operating applications in cloud environments such as AWS, focusing on building high-performance and reliable backend architectures with solid foundations in relational databases (SQL), security, and system design.
+Backend-focused Full-Stack Developer specialized in Java and Spring Boot, building scalable APIs, microservices, and distributed systems. Experienced with AWS, Docker, and CI/CD, with a strong focus on performance, security (JWT, OAuth2, OWASP), and reliability.
 
-I have a strong background in application security and API auditing, applying best practices based on OWASP. I have implemented secure authentication and authorization mechanisms (JWT, OAuth2), access control, rate limiting, and protection of sensitive data, ensuring robust and secure systems.
+Skilled in optimizing backend systems using Redis, WebSockets, and robust error handling. I also have experience in frontend and mobile development (React, Next.js, React Native, Swift, Kotlin), covering the full development lifecycle.
 
-I optimize backend performance through caching strategies with Redis, real-time communication using WebSockets, and automated testing with JUnit. I also implement concurrency control, resilient integrations with external APIs, and robust error handling to improve system stability and reliability.
-
-Additionally, I work with cloud infrastructure and DevOps practices, mainly in AWS, using Docker and CI/CD pipelines to automate deployments, manage production environments, and ensure continuous delivery.
-
-While my main focus is backend development, I complement my profile with experience in frontend and mobile technologies, including React, Next.js, Tailwind, React Native, Swift/SwiftUI, and Kotlin/Jetpack Compose, handling full lifecycle development from build to deployment in App Store and Google Play.
-
-I have led development teams and projects, applying Agile and Scrum methodologies, collaborating closely with clients in requirement definition and planning, and ensuring high-quality, timely deliveries aligned with business goals.
+I have led teams and projects using Agile methodologies, delivering high-quality solutions aligned with business goals.
 
 - 🌍 I'm based in Argentina, Buenos Aires, Monte Grande.
 - 🖥️ See my [portfolio](https://hernan-hawryluk.vercel.app/) developed in Next.js and deployed on Vercel.
