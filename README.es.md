@@ -1,143 +1,70 @@
-# Hola! 👋 Soy Hernan
+# Hola 👋 Soy Hernán Hawryluk
 
-## Full-Stack Developer
+## CTO & AI-Native Full-Stack Engineer
+
+**Desarrollo backend · Seguridad de aplicaciones · Desarrollo integral de productos**
 
 <div>
   <a href="https://hernan-hawryluk.vercel.app"><img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-gray?logo=react"></a>
   <a href="https://github.com/hernanhawryluk/hernanhawryluk/blob/main/README.es.md"><img alt="Change language to English" src="https://img.shields.io/badge/translate-english-red.svg"></a>
+  <a href="https://www.linkedin.com/in/hernan-hawryluk/"><img alt="Conectar en LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square"></a>
   <a href="#"><img alt="Visitas" src="https://visitor-badge.laobi.icu/badge?page_id=hernanhawryluk.hernanhawryluk"></a>
 </div>
 <br>
 
-Desarrollador Full-Stack enfocado en Backend, especializado en Java y Spring Boot, construyendo APIs escalables, microservicios y sistemas distribuidos. Con experiencia en AWS, Docker y CI/CD, con un fuerte enfoque en rendimiento, seguridad (JWT, OAuth2, OWASP) y confiabilidad.
+Soy CTO y desarrollador Full-Stack especializado en **backend con Java y Spring Boot** y **seguridad de aplicaciones**. Lidero y desarrollo productos digitales de principio a fin, desde la definición de requisitos y arquitectura hasta su implementación, despliegue y operación en producción.
 
-Especializado en la optimización de sistemas backend mediante el uso de Redis, WebSockets y manejo robusto de errores. También cuento con experiencia en desarrollo frontend y mobile (React, Next.js, React Native, Swift, Kotlin), cubriendo todo el ciclo de desarrollo.
+Mi experiencia abarca servicios backend, APIs REST y aplicaciones web y móviles. También gestiono **infraestructura AWS, pipelines CI/CD y publicación de aplicaciones en App Store y Google Play**.
 
-He liderado equipos y proyectos utilizando metodologías Agile, entregando soluciones de alta calidad alineadas con los objetivos del negocio.
+Trabajo directamente con clientes y stakeholders para definir prioridades, planificar la evolución de los productos y tomar decisiones técnicas, equilibrando velocidad de entrega, escalabilidad, costos y mantenibilidad.
 
-- 🌍 Estoy ubicado en Argentina, Buenos Aires, Monte Grande.
-- 🖥️ Visita mi [portafolio](https://hernan-hawryluk.vercel.app/) desarrollado en Next.js y desplegado en Vercel.
-- 🚀 Actualmente trabajo como Desarrollador Full-Stack.
-- ✉️ Puedes contactarme en [LinkedIn](https://www.linkedin.com/in/hernan-hawryluk).
-  <br>
+- 📍 Vivo en Monte Grande, Buenos Aires, Argentina.
+- 🚀 **CTO y Desarrollador Full-Stack en Hako Software** desde septiembre de 2024.
+- 🛠️ Desarrollo software comercial desde **2022**, antes de incorporar herramientas de IA al desarrollo.
+- 📈 Mi experiencia incluye proyectos que superaron los **10.000 usuarios activos**.
+- 🌐 Explorá mi [portfolio](https://hernan-hawryluk.vercel.app/) para conocer los proyectos y mis [repositorios](https://github.com/hernanhawryluk?tab=repositories) para ver código y documentación.
 
-## Mis habilidades
+## Cómo trabajo con IA
 
-<table style="border-style=dotted;">
-  <tr>
-    <td valign="top" align="center" width="33%">
-      <h2>Front-end</h2>
-        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" height="50" width="50" alt="HTML5" /></a>
-        <a href="https://www.w3.org/TR/CSS/#css" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" height="50" width="50" alt="CSS3" /></a>
-        <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" width="50" /></a>
-        <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" width="50" /></a>  
-        <a href="https://developer.apple.com/swift" target="_blank"><img style="margin: 10px" src="./Assets/swift.png" alt="Swift" height="50" width="50" /></a>
-        <a href="https://developer.apple.com/xcode/swiftui/" target="_blank"><img style="margin: 10px" src="./Assets/swift-ui.png" alt="Swift UI" height="50" width="50" /></a>
-        <a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" height="50" width="50" alt="Kotlin" /></a>
-        <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" height="50" width="50" alt="React" /></a>
-        <a href="https://expo.dev/" target="_blank"><img style="margin: 10px" src="./Assets/expo.png" height="50" width="50" alt="Expo" /></a>
-        <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" width="50" /></a>
-        <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" width="50" /></a>  
-        <a href="https://getbootstrap.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" height="50" width="50" alt="Bootstrap" /></a>
-    </td>
-    <td valign="top" align="center" width="33%">
-      <h2>Back-end</h2> 
-        <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" width="50" /></a>  
-        <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" height="50" width="50" alt="Django" /></a>
-        <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" width="50" /></a>  
-        <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" width="50" /></a>
-        <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" width="50" /></a>  
-        <a href="https://nodejs.org/en/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" height="50" width="50" alt="NodeJS" /></a>
-        <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" height="50" width="50" alt="Express" /></a>
-        <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" height="50" width="50" alt="Java" /></a>
-      <a href="https://spring.io/projects/spring-boot" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/springboot-colored.svg" height="50" width="50" alt="Spring Boot" /></a>
-    </td>
-    <td valign="top" align="center" width="33%">
-      <h2>BD y Cloud</h2>
-        <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" height="50" width="50" alt="MySQL" /></a>
-        <a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" width="50" /></a>  
-        <a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" width="50" /></a>  
-        <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" height="50" width="50" alt="MongoDB" /></a>
-        <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" width="50" /></a>
-        <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" height="50" width="50" alt="GNU Bash" title="GNU Bash"/></a>
-        <a href="https://cloud.google.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" height="50" width="50" alt="Google Cloud" title="Google Cloud"/></a>
-        <a href="https://play.google.com/store" target="_blank"><img style="margin: 10px" src="./Assets/googleplay.png" height="50" width="50" alt="Google Play" /></a>
-        <a href="https://www.apple.com/app-store/" target="_blank"><img style="margin: 10px" src="./Assets/appstore.png" alt="App Store" height="50" width="50" /></a>
-        <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" alt="AWS" height="50" width="50" /></a>
-        <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="AWS" height="50" width="50" /></a>
-    </td>
-  </tr>
-</table>
-<br>
+Integro **desarrollo guiado por especificaciones (SDD)** y **agentes de IA** en mi flujo de ingeniería, con especificaciones, contexto del proyecto y validación que orientan el trabajo.
 
-## 💻 Yo mismo como una instancia de una clase en Python
+1. **Especificar:** definir el problema, los requisitos, las restricciones y los criterios de aceptación.
+2. **Aportar contexto:** documentar arquitectura, convenciones, integraciones y decisiones del proyecto.
+3. **Coordinar agentes:** dividir el trabajo en tareas definidas de análisis, implementación, pruebas y documentación.
+4. **Revisar y validar:** inspeccionar los cambios, ejecutar pruebas y comprobar el comportamiento frente a los criterios de aceptación y las decisiones de arquitectura.
+5. **Entregar y mantener:** integrar los cambios, desplegarlos y dar seguimiento a su comportamiento en producción.
 
-```python
-class FullStackDeveloper:
-    def __init__(self, fullname, role, workplace):
-        self.fullname = fullname
-        self.role = role
-        self.workplace = workplace
-        self.languages = {"Español", "Inglés"}
-        self.coding_languages = {"JavaScript", "TypeScript", "Swift", "Kotlin", "Python", "Java"}
-        self.technologies = {
-            "front_end": {
-                "basics": ["HTML", "CSS", "JavaScript"],
-                "web": ["React", "Next.js", "Tailwind CSS", "Bootstrap"],
-                "mobile": ["React Native", "Swift", "SwiftUI", "Kotlin", "Jetpack Compose"],
-            },
-            "back_end": {
-                "typescript": ["Node.js", "Express", "Next.js"],
-                "python": ["Django", "Django REST Framework"],
-                "java": ["Spring Boot"],
-            },
-            "databases": {
-                "sql": ["MySQL", "PostgreSQL", "SQLite"],
-                "no_sql": ["MongoDB", "Firebase"],
-            },
-            "dev_ops": {
-                "hosting": ["AWS", "Vercel"],
-                "publishing": ["Google Play Store", "Apple App Store"],
-            },
-        }
+Mantengo la responsabilidad sobre las decisiones técnicas, la calidad del código, la seguridad y la entrega final.
 
-    def work(self, tech_type, tech_category, tech_name):
-        try:
-            if tech_name in self.technologies[tech_type][tech_category]:
-                return f"Actualmente estoy trabajando en el desarrollo de {tech_category} utilizando {tech_name}."
-            else:
-                return f"{tech_name} no forma parte de mi stack de {tech_category}. Estoy abierto a aprenderlo."
-        except KeyError:
-            return f"'{tech_category}' no es una categoría válida dentro de '{tech_type}'."
+## Experiencia técnica
 
-    def __str__(self):
-        return f"¡Hola! Mi nombre es {self.fullname} y soy {self.role} en {self.workplace}."
+| Área | Tecnologías y prácticas | Experiencia aplicada |
+| --- | --- | --- |
+| **Backend** | Java, Spring Boot, Python, FastAPI, Django, Django REST Framework, Node.js, Express | APIs REST, lógica de negocio, integraciones externas y servicios en producción. |
+| **Seguridad de aplicaciones** | JWT, OAuth2, prácticas OWASP, control de acceso, rate limiting | Autenticación, autorización, protección de APIs y manejo seguro de datos. |
+| **Web** | JavaScript, TypeScript, React, Next.js, HTML, CSS, Tailwind CSS, Bootstrap | Interfaces por componentes, gestión de estado, integración con APIs y diseños responsivos. |
+| **Mobile** | React Native, Expo, Swift, SwiftUI, Kotlin, Jetpack Compose | Aplicaciones multiplataforma y nativas, integración con backend y publicación en tiendas. |
+| **Datos y rendimiento** | MySQL, PostgreSQL, SQLite, MongoDB, Firebase, Prisma, Redis, WebSockets | Modelado de datos, persistencia, optimización de consultas, caching y comunicación en tiempo real. |
+| **Cloud y despliegues** | AWS, Docker, Bash, Git, GitHub, CI/CD, observabilidad | Infraestructura, gestión de entornos, automatización de despliegues y operación en producción. |
+| **Ingeniería con IA** | SDD, orquestación de agentes, gestión de contexto, pruebas automatizadas, revisión de código | Flujos de implementación estructurados, decisiones documentadas y entregas validadas. |
+| **Producto y colaboración** | Figma, Jira, Asana, Trello, metodologías ágiles | Requisitos, priorización, planificación de roadmap, implementación de interfaces y coordinación de equipos. |
+| **3D interactivo** | Unreal Engine 5, SketchUp | Visualización arquitectónica con acabados e iluminación interactivos. |
 
-    def __repr__(self):
-        return f"FullStackDeveloper(fullname='{self.fullname}', role='{self.role}', workplace='{self.workplace}')"
+## Trayectoria y contribuciones
 
-hernan_hawryluk = FullStackDeveloper("Hernan Hawryluk", "Desarrollador Mobile", "Bytewave")
-work = hernan_hawryluk.work("front_end", "mobile", "React Native")
-
-print(hernan_hawryluk)
-print(work)
-```
-
-<br>
-
-## Serpiente devorando mis contribuciones
+Explorá mis [repositorios](https://github.com/hernanhawryluk?tab=repositories) y mi [historial de contribuciones](https://github.com/hernanhawryluk?tab=overview) para conocer mi trabajo y la evolución de mis proyectos a lo largo del tiempo.
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hernanhawryluk/hernanhawryluk/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hernanhawryluk/hernanhawryluk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hernanhawryluk/hernanhawryluk/output/github-contribution-grid-snake.svg">
+    <img alt="Animación de una serpiente recorriendo mi gráfico de contribuciones de GitHub" src="https://raw.githubusercontent.com/hernanhawryluk/hernanhawryluk/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
-<br>
+## Conversemos
 
-## Conéctate conmigo
+Si buscás desarrollar un producto, evolucionar una plataforma o sumar liderazgo técnico, hablemos.
 
 <div>
   <a href="https://github.com/hernanhawryluk" target="_blank">
