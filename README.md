@@ -12,7 +12,7 @@
 </div>
 <br>
 
-I'm a CTO and Full-Stack Engineer specializing in **backend development with Java and Spring Boot** and **application security**. I lead and build digital products end to end, from requirements and architecture to implementation, deployment, and production operations.
+I'm a Full-Stack Engineer specializing in **backend development with Java and Spring Boot** and **application security**. I lead and build digital products end to end, from requirements and architecture to implementation, deployment, and production operations.
 
 My experience spans backend services, REST APIs, and web and mobile applications. I also manage **AWS infrastructure, CI/CD pipelines, and app releases on the App Store and Google Play**.
 
