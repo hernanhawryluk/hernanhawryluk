@@ -5,8 +5,9 @@
 **Backend development · Application security · End-to-end product delivery**
 
 <div>
-  <a href="https://hernan-hawryluk.vercel.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-gray?logo=react"></a>
+  <a href="https://hernan-hawryluk.vercel.app/"><img alt="Visit my portfolio" src="https://img.shields.io/badge/Portfolio-Visit-3178C6?style=flat-square"></a>
   <a href="https://github.com/hernanhawryluk/hernanhawryluk/blob/main/README.es.md"><img alt="Cambiar idioma al español" src="https://img.shields.io/badge/traducir-español-yellow.svg"></a>
+  <a href="https://www.linkedin.com/in/hernan-hawryluk/"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square"></a>
   <a href="#"><img alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=hernanhawryluk.hernanhawryluk"></a>
 </div>
 <br>
