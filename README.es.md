@@ -12,7 +12,7 @@
 </div>
 <br>
 
-Soy CTO y desarrollador Full-Stack especializado en **backend con Java y Spring Boot** y **seguridad de aplicaciones**. Lidero y desarrollo productos digitales de principio a fin, desde la definición de requisitos y arquitectura hasta su implementación, despliegue y operación en producción.
+Soy un desarrollador Full-Stack especializado en **backend con Java y Spring Boot** y **seguridad de aplicaciones**. Lidero y desarrollo productos digitales de principio a fin, desde la definición de requisitos y arquitectura hasta su implementación, despliegue y operación en producción.
 
 Mi experiencia abarca servicios backend, APIs REST y aplicaciones web y móviles. También gestiono **infraestructura AWS, pipelines CI/CD y publicación de aplicaciones en App Store y Google Play**.
 
